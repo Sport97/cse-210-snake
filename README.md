@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Stephen Port (port21022@byui.edu)
+* Stephen Port (por21022@byui.edu)
